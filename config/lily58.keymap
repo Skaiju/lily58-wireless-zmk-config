@@ -74,7 +74,7 @@
 
         layer_3 {
             bindings = <
-&trans            &trans  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4                         &trans  &trans  &trans  &trans  &trans  &trans
+&kp ESCAPE        &trans  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4                         &trans  &trans  &trans  &trans  &trans  &trans
 &kp TAB           &trans  &trans        &kp W         &trans        &trans                               &trans  &trans  &trans  &trans  &trans  &trans
 &kp LEFT_SHIFT    &trans  &kp A         &kp S         &kp D         &kp UP_ARROW                         &trans  &trans  &trans  &trans  &trans  &trans
 &kp LEFT_CONTROL  &trans  &trans        &trans        &kp C         &kp DOWN_ARROW  &trans       &trans  &trans  &trans  &trans  &trans  &trans  &trans
